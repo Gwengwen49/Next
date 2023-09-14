@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "next:block/strange_grass_block"
+      },
+      {
+        "model": "next:block/strange_grass_block",
+        "y": 90
+      },
+      {
+        "model": "next:block/strange_grass_block",
+        "y": 180
+      },
+      {
+        "model": "next:block/strange_grass_block",
+        "y": 270
+      }
+    ]
+  }
+}

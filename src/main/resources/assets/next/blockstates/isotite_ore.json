@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "next:block/isotite_ore"
+      }
+    ]
+  }
+}

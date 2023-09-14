@@ -1,0 +1,9 @@
+{
+  "type": "next:outside_world",
+  "generator": {
+    "type": "next:outside_world_chunk_generator",
+    "biome_source": {
+        "type": "next:outside_world"
+    }
+  }
+}

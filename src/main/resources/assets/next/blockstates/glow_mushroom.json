@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "next:block/glow_mushroom"
+      }
+    ]
+  }
+}

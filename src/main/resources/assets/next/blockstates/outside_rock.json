@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "next:block/outside_rock"
+      },
+      {
+        "model": "next:block/outside_rock",
+        "y": 90
+      },
+      {
+        "model": "next:block/outside_rock",
+        "y": 180
+      },
+      {
+        "model": "next:block/outside_rock",
+        "y": 270
+      }
+    ]
+  }
+}
